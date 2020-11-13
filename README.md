@@ -1,6 +1,6 @@
 # unitauto-jar  [![](https://jitpack.io/v/TommyLemon/unitauto-jar.svg)](https://jitpack.io/#TommyLemon/unitauto-jar)
 UnitAuto Jar 库，可通过 Maven, Gradle 等远程依赖。<br />
-UnitAuto Jar library for remote dependencies with Maven, Gradle, etc.
+UnitAuto Jar Library for remote dependencies with Maven, Gradle, etc.
 
 ### Maven
 #### 1. 在 pom.xml 中添加 JitPack 仓库
